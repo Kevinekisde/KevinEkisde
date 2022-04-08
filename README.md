@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate FullStack Web Developer</h3>
 
+<h3 align="center"><img src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" aling="center" alt="javascript" width="300" height="200" /></h3>
+                                                                                                                               
 - 🔭 I’m currently working on **Fiesta Bresh**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-three-sand.vercel.app/](https://portafolio-three-sand.vercel.app/)
