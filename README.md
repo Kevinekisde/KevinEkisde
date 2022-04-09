@@ -16,7 +16,7 @@
 
 
 <h3 align="left">My Main Lenguages:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://iconape.com/wp-content/png_logo_vector/redux.png" alt="reactnative" width="40" height="40"/>
