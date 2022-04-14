@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafolio-npm.vercel.app/](https://portafolio-npm.vercel.app/)
 
-- 📫 How to reach me **Kevinomg9@gmail.com**
+- 📫 How to reach me **Kevinomg9@gmail.com || +56939418935**
 
 
 <h3 align="left">Connect with me:</h3>
